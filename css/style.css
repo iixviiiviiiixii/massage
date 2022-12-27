@@ -238,23 +238,23 @@ img {
     }
 
     .h3 {
-        font-size: 13px;
+        font-size: 14px;
         margin: 5px 0;
     }
 
     .about {
-        font-size: 12px;
+        font-size: 14px;
         margin-bottom: 10px;
         text-align: center;
     }
 
     .address {
-        font-size: 12px;
+        font-size: 14px;
         text-align: center;
     }
 
     .tel {
-        font-size: 13px;
+        font-size: 14px;
     }
 
     .block2 {
@@ -262,12 +262,12 @@ img {
     }
 
     .h4 {
-        font-size: 12px;
+        font-size: 14px;
         text-align: center;
     }
 
     .pricelist {
-        font-size: 11px;
+        font-size: 14px;
     }
 
     .service-name {
@@ -297,6 +297,35 @@ img {
 
     .block1 {
         padding: 0;
+    }
+
+    .number {
+        font-size: 12px;
+    }
+
+    .h3 {
+        font-size: 12px;
+    }
+
+    .about {
+        font-size: 12px;
+    }
+
+    .address {
+        font-size: 12px;
+    }
+
+    .tel {
+        font-size: 12px;
+    }
+
+    .h4 {
+        font-size: 12px;
+        text-align: center;
+    }
+
+    .pricelist {
+        font-size: 12px;
     }
 }
 
