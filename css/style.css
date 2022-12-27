@@ -17,7 +17,7 @@ body {
     margin: 0;
     font-family: 'Montserrat', sans-serif;
     font-weight: 400;
-    background-color: var(--background-color);
+    background-color: var(--background-color-2);
 }
 
 a {
@@ -158,6 +158,8 @@ img {
 
 .tel {
     font-size: 20px;
+    color: var(--accent-color);
+    text-decoration: underline;
 }
 
 .block2 {
