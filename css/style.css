@@ -111,6 +111,9 @@ img {
     border-radius: 20px;
     margin-bottom: 30px;
     padding: 10px;
+    border-left: 1px solid var(--gray-color);
+    border-right: 1px solid var(--gray-color);
+    border-bottom: 1px solid var(--gray-color);
 }
 
 .block1 {
@@ -129,13 +132,12 @@ img {
     height: 40px;
     width: 10%;
     border-radius: 0 0 10px 10px;
-    border-left: 1px solid var(--background-color-2);
-    border-right: 1px solid var(--background-color-2);
-    border-bottom: 1px solid var(--background-color-2);
+    border: 1px solid var(--background-color-2);
     background-color: var(--background-color-2);
     color: var(--accent-color);
     font-weight: 500;
     font-size: 18px;
+    z-index: 10;
 }
 
 .h3 {
