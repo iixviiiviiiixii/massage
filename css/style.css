@@ -177,7 +177,7 @@ img {
     justify-content: space-between;
     padding: 2px;
     margin-bottom: 2px;
-    border-bottom: 2px solid var(--background-color-2);
+    border-bottom: 1px solid var(--background-color-2);
 }
 
 .pricelist:last-child {
@@ -228,6 +228,7 @@ img {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        border-bottom: 1px solid var(--background-color-2);
     }
 
     .number {
