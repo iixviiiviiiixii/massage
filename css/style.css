@@ -132,7 +132,7 @@ img {
     border-left: 1px solid var(--background-color-2);
     border-right: 1px solid var(--background-color-2);
     border-bottom: 1px solid var(--background-color-2);
-    background-color: var(--background-color);
+    background-color: var(--background-color-2);
     color: var(--accent-color);
     font-weight: 500;
     font-size: 18px;
