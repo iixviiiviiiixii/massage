@@ -228,7 +228,6 @@ img {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        border-bottom: 1px solid var(--background-color-2);
     }
 
     .number {
@@ -260,6 +259,7 @@ img {
 
     .block2 {
         width: 100%;
+        border-top: 1px solid var(--background-color-2);
     }
 
     .h4 {
